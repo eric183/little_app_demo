@@ -2,4 +2,4 @@ function tester() {
     console.log('hi');
 }
 
-export { tester };
+export default tester;
